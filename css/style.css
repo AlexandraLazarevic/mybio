@@ -1,0 +1,13 @@
+.my_pic{
+	width: 180px;
+	border-radius: 50%;
+}
+
+.bg-primary{
+	background-color: #dc3545!important;
+}
+
+hr.star-light:after {
+    color: #fff;
+    background-color: #dc3545;
+}

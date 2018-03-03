@@ -4,10 +4,10 @@
 }
 
 .bg-primary{
-	background-color: #dc3545!important;
+	background-color: #007bff;
 }
 
 hr.star-light:after {
-    color: #fff;
-    background-color: #dc3545;
-}
+    color: #ffc107;
+    background-color: #17a2b8;
+} 
